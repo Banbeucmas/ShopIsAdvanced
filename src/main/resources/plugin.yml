@@ -1,0 +1,5 @@
+name: ShopIsAdvanced
+version: ${project.version}
+main: me.banbeucmas.ShopIsAdvanced
+authors: [Banbeucmas]
+description: Creating an Advanced Shop
